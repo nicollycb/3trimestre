@@ -21,7 +21,8 @@ img{
     display: flex;
 }
 .logocabeçalho{
-    width: 100px
+    width: 100px;
+    border-radius: 5px;
 }
 .lista_de_cabeçalho{
     display: flex;
