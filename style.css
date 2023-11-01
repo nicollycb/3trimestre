@@ -22,7 +22,7 @@ img{
 }
 .logocabeçalho{
     width: 100px;
-    border-radius: 5px;
+    border-radius: 50px;
 }
 .lista_de_cabeçalho{
     display: flex;
