@@ -27,7 +27,7 @@ img{
 .lista_de_cabeçalho{
     display: flex;
     margin-left: 500px;
-    margin-left: 50%;
+    margin-left: 100px;
 }
 .item_lista_cabeçalho{
     color: #a02822;
