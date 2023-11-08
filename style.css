@@ -1,5 +1,5 @@
 body{
-    background: #c56363;
+    background: #0059ff;
 }
 h1{
     text-align: center;
@@ -17,7 +17,7 @@ img{
 }
 
 .cabeçalho{
-    background-color: rgb(179, 83, 83);
+    background-color:rgb(0, 47, 255);
     display: flex;
 }
 .logocabeçalho{
